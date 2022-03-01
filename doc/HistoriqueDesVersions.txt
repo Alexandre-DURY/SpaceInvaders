@@ -1,0 +1,36 @@
+Historique des versions :
+
+
+	Version 0 :	-Affichage fond noir
+			-Affichage du terrain
+			-Affichage vaisseau
+			-Affichage ennemies 
+			
+			
+	Version 0.1:    -Deplacement Vaisseau
+			-Gestion colision avec les murs(bord de l'écran)
+
+	
+	Version 0.2:    -Tire du Vaisseau
+			-Gestion colision avec les tires du vaisseau(ennemie lorsqu'il ressoit un tire)
+			-Mouvement en S des ennemies à gérer automatiquement
+
+	Version 0.3:    -Tire des Ennemies(à gérer automatiquement de manière répétitive)
+			-Gestion colision avec les tires ennemies(vaisseau du joueur lorsqu'il ressoit un tire)
+			
+
+	Version 0.4:    -Mouvement en S des ennemies à gérer automatiquement(sous forme de cycle)
+
+	
+	Version 0.5:    -Création score, nombre de vie restantes,...
+			-Affichage GAME OVER 		
+
+
+	Version 0.6:	-Affichage d'un menu (Jouer, Regles, Quitter)
+
+
+	Bonus :   	-Affichage ennemies avec skin(visuel) des zinizins de l'espace
+			-Mouvement verticale du SpaceShip(vaisseau)
+			-Bonus qui tombe des morts ennemies(tire double, bonus score, vitesse augmenté,...)
+			
+		
